@@ -232,9 +232,14 @@ A：国内主流是支付宝等第三方支付渠道。要求你先转私人账�
 
 ## 拆得更细的 12 篇专题
 
-正文里讲的地方如果还不够细，我按「一个问题一篇」拆成了 12 篇，从「能不能充」到「掉订阅怎么救」都有，目录在这里：
+正文里讲的地方如果还不够细，我按「一个问题一篇」拆成了 12 篇，从「能不能充」到「掉订阅怎么救」都有。
 
-[Cocos666a 的 ChatGPT 订阅专题目录](https://cocos666a.github.io/tibo-price/guides/)
+如果你卡在「没有国外银行卡」或者「卡被拒」，直接跳到这两个专题：
+
+- 没有国外银行卡 → [no-foreign-card.html](https://cocos666a.github.io/tibo-price/guides/no-foreign-card.html)
+- 卡被拒 10 个报错 → [card-declined-errors.html](https://cocos666a.github.io/tibo-price/guides/card-declined-errors.html)
+
+[Cocos666a 的 ChatGPT 订阅专题目录](https://cocos666a.github.io/tibo-price/guides/)（12 篇全在这个目录里）
 
 ## 服务说明
 
