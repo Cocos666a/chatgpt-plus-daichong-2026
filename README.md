@@ -241,6 +241,10 @@ A：国内主流是支付宝等第三方支付渠道。要求你先转私人账�
 
 [Cocos666a 的 ChatGPT 订阅专题目录](https://cocos666a.github.io/tibo-price/guides/)（12 篇全在这个目录里）
 
+## 小红书图文合集
+
+小红书端的图文（选档、额度、多设备、预算搭配）逐篇归档在 [scribble](https://github.com/Cocos666a/scribble)，正文与配图都在里面。
+
 ## 服务说明
 
 如果不想自己折腾上述任何一条路，我们自己在做这块的代理充值，公开信息如下：
